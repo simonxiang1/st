@@ -6,6 +6,12 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "Liberation Mono:pixelsize=19:antialias=true:autohint=true";
+/* Spare fonts */
+static char *font2[] = {
+/*	"Source Han Sans:pixelsize=18:antialias=true:autohint=true", */
+/*	"Hack Nerd Font Mono:pixelsize=18:antialias=true:autohint=true", */
+};
+
 static int borderpx = 2;
 
 /*
