@@ -1,8 +1,9 @@
 ## personal build of st terminal
 todo list:
 - transparency (if I need it, patch in alpha, selection colors, selectionbg-alpha, then get picom working) 
-	-note that alpha conflicts with pywal somehow, read the man page for pywal
+  -note that alpha conflicts with pywal somehow, read the man page for pywal
 - make it nicer w/zsh (weird arrows and banners)
+- change the font (if I want to... do I?)
 
 done:
 
