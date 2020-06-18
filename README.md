@@ -2,7 +2,6 @@
 todo list:
 - transparency (if I need it, patch in alpha, selection colors, selectionbg-alpha, then get picom working) 
 	-note that alpha conflicts with pywal somehow, read the man page for pywal
-- functionality: copy paste keybinds
 - make it nicer w/zsh (weird arrows and banners)
 
 done:
