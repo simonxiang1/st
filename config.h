@@ -250,7 +250,6 @@ static Shortcut shortcuts[] = {
 	{ ControlMask,          XK_v,           clippaste,      {.i =  0} },
 	{ TERMMOD,              XK_Y,           selpaste,       {.i =  0} },
 	{ TERMMOD,              XK_Num_Lock,    numlock,        {.i =  0} },
-	{ Mod4Mask,             XK_l,           copyurl,        {.i =  0} },
 	{ Mod4Mask,             XK_u,           kscrollup,      {.i = -1} },
 	{ Mod4Mask,             XK_d,           kscrolldown,    {.i = -1} },
 	{ Mod4Mask,             XK_k,           kscrollup,      {.i =  1} },
