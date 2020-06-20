@@ -17,7 +17,7 @@ if the text is too big, in the file config.h, find the static char font pointer 
   - super-j and super-k to scroll down and up respectively
   - super-d and super-u for fast scrolling!
   - ctrl-shift-k and ctrl-shift-j for zooming in and out on the spot respectively, Ctrl-P to reset
-  - ctrl-shift-c and ctrl-v to copy and paste (windows binds, ctrl-c for copy conflicts with ctrl-c to exit pinging)
+  - super-c and ctrl-v to copy and paste (windows binds, ctrl-c for copy conflicts with ctrl-c to exit pinging)
 - pywal support: updates color scheme according to background, refresh all tabs for full effect (see my .zshrc in the dotfiles repo for aliases to run wal)
 - changed font to mononoki (install from the AUR as ttf-mononoki)
 - compton works (blur, transparency)
