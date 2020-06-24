@@ -17,7 +17,7 @@ If the text is too big, in the file config.h, find the static char font pointer 
   - Super-j and Super-k to scroll down and up respectively
   - Super-d and Super-u for fast scrolling!
   - Ctrl-Shift-k and Ctrl-Shift-j for zooming in and out on the spot respectively, Ctrl-p to reset
-  - Super-c and Ctrl-v to copy and paste (windows binds, Ctrl-c for copy conflicts with Ctrl-c to exit pinging)
+  - Ctrl-Shift-c and Ctrl-v to copy and paste (windows binds, Ctrl-c for copy conflicts with Ctrl-c to exit pinging)
   - Super-l to follow urls, Super-shift-l to copy urls using dmenu (it's really cool)
 - Pywal support: generates a color scheme according to background, refresh all tabs for full effect (see my .zshrc in the dotfiles repo for aliases to run wal)
 - Changed font to mononoki (install from the AUR as ttf-mononoki)

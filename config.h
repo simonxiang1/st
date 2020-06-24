@@ -8,7 +8,8 @@
 static char *font = "mononoki Nerd Font:pixelsize=20:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-/*	"Source Han Sans:pixelsize=18:antialias=true:autohint=true", */
+	"Source Han Sans:pixelsize=18:antialias=true:autohint=true", 
+	"Noto Color Emoji:pixelsize=18:antialias=true:autohint=true"
 };
 
 static int borderpx = 2;
@@ -252,7 +253,7 @@ static Shortcut shortcuts[] = {
 	{ TERMMOD,              XK_K,           zoom,           {.f = +1} },
 	{ TERMMOD,              XK_J,           zoom,           {.f = -1} },
 	{ TERMMOD,              XK_P,           zoomreset,      {.f =  0} },
-	{ Mod4Mask,             XK_c,           clipcopy,       {.i =  0} },
+	{ TERMMOD,              XK_C,           clipcopy,       {.i =  0} },
 	{ ControlMask,          XK_v,           clippaste,      {.i =  0} },
 	{ TERMMOD,              XK_Y,           selpaste,       {.i =  0} },
 	{ TERMMOD,              XK_Num_Lock,    numlock,        {.i =  0} },
