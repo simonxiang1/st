@@ -9,6 +9,7 @@ static char *font = "mononoki Nerd Font:pixelsize=20:antialias=true:autohint=tru
 /* Spare fonts */
 static char *font2[] = {
 	"Source Han Sans:pixelsize=18:antialias=true:autohint=true", 
+	"Symbola:pixelsize=17:antialias=true:autohint=true"
 };
 
 static int borderpx = 2;
