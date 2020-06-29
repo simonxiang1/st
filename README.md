@@ -1,6 +1,6 @@
 ## Personal build of st terminal
 
-Yay I "made" a terminal- vanilla st sucks so I've added some patches for functionality and made it look pretty. To see screenshots, I'll add them in the archrice repository once I finish perfecting my setup.
+The simple terminal is a very clean terminal that doesn't come with very much, so I patched it to give it some functionality and style.
 
 To install, simply run
 ```
