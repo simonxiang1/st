@@ -9,7 +9,8 @@ static char *font = "mononoki Nerd Font:pixelsize=20:antialias=true:autohint=tru
 /* Spare fonts */
 static char *font2[] = {
 	"Source Han Sans:pixelsize=18:antialias=true:autohint=true", 
-	"Symbola:pixelsize=17:antialias=true:autohint=true"
+	"Symbola:pixelsize=17:antialias=true:autohint=true",
+	"DejaVu Sans:pixelsize=18:antialias=true:autohint=true"
 };
 
 static int borderpx = 2;
@@ -100,7 +101,7 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 /* bg opacity */
-float alpha = 0.85;
+float alpha = 0.9;
 
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
