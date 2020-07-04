@@ -21,8 +21,7 @@ If the text is too big, in the file config.h, find the static char font pointer 
   - Super-l to follow urls, Super-shift-l to copy urls using dmenu (it's really cool)
 - Pywal support: generates a color scheme according to background, refresh all tabs for full effect (see my .zshrc in the dotfiles repo for aliases to run wal)
 - Changed font to mononoki (install from the AUR as ttf-mononoki)
-- Compton works (blur, transparency)
-- Powerlevel10k for cool prompts
+- Compton works (blur, transparency), however, active opacity is toggled through the alpha patch
 - Patches applied:
   - Anysize to remove ugly empty spaces when resizing
   - Font2 for fallback font (unicode, japanese)
