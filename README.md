@@ -1,6 +1,6 @@
 ## Personal build of st terminal
 
-The simple terminal is a very clean terminal that doesn't come with very much, so I patched it to give it some functionality and style.
+The simple terminal is a very clean terminal emulator that doesn't come with very much, so I patched it to give it some functionality and style.
 
 To install, simply run
 ```
