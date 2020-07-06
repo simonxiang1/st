@@ -1,4 +1,8 @@
-/* See LICENSE file for copyright and license details. */
+         /*_*/
+ /*___ ___| |__*/
+/*/ __/ __| '_ \*/
+/*\__ \__ \ | | |*/
+/*|___/___/_| |_|*/
 
 /*
  * appearance
