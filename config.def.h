@@ -4,8 +4,6 @@
 /*\__ \__ \ | | |*/
 /*|___/___/_| |_|*/
 
-/* testing my git server */
-
 /*
  * appearance
  *
